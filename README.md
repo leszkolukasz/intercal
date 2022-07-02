@@ -1,5 +1,5 @@
 # INTERCAL sample programs
-![license](https://img.shields.io/badge/license-MIT-green)
+![license](https://img.shields.io/github/license/leszkolukasz/intercal.svg)
 ![status](https://img.shields.io/badge/status-finished-green)
 
 This repository contains implementations of selected algorithms in INTERCAL.
